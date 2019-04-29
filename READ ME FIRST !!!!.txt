@@ -1,0 +1,9 @@
+(FOR ADMIN - LOGIN FROM THE SAME USER'S LOGIN PAGE) 
+ADMIN : username = admin
+        password = admin
+
+User's Login
+User: username = harry	
+      password = code0
+
+
